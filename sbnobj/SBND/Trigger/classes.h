@@ -3,6 +3,7 @@
 #include "sbnobj/SBND/Trigger/pmtTrigger.hh"
 #include "sbnobj/SBND/Trigger/pmtSoftwareTrigger.hh"
 #include "sbnobj/SBND/Trigger/CRTmetric.hh"
+#include "sbnobj/SBND/Trigger/Coincidence.hh"
 #include <vector>
 #include <map>
 #include <utility>

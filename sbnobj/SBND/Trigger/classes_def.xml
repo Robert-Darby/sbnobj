@@ -27,4 +27,9 @@
   <class name="art::Wrapper<sbndaq::CRTmetric>"/>
   <class name="std::vector<sbndaq::CRTmetric>"/>
   <class name="art::Wrapper< std::vector<sbndaq::CRTmetric> >"/>
+
+  <class name="sbnd::Coincidence"/>
+  <class name="art::Wrapper<sbnd::Coincidence>"/>
+  <class name="std::vector<sbnd::Coincidence>"/>
+  <class name="art::Wrapper<std::vector<sbnd::Coincidence>>"/>
 </lcgdict>
