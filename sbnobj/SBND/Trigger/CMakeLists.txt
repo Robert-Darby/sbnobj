@@ -1,6 +1,7 @@
 cet_make_library(
   SOURCE
     pmtTrigger.cc
+    MichelTag.cc
   LIBRARIES
     cetlib_except::cetlib_except
   )

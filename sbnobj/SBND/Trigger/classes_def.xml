@@ -8,4 +8,8 @@
   <class name="std::vector<sbnd::comm::pmtTrigger>"/>
   <class name="art::Wrapper< std::vector<sbnd::comm::pmtTrigger> >"/>
   
+  <class name="sbnd::MichelTag"/>
+  <class name="std::vector<sbnd::MichelTag>"/>
+  <class name="art::Wrapper< std::vector<sbnd::MichelTag> >"/>
+
 </lcgdict>
