@@ -11,5 +11,8 @@
   <class name="sbnd::MichelTag"/>
   <class name="std::vector<sbnd::MichelTag>"/>
   <class name="art::Wrapper< std::vector<sbnd::MichelTag> >"/>
-
+  <class name="art::Assns<recob::OpFlash, sbnd::MichelTag>" />
+  <class name="art::Assns<sbnd::MichelTag, recob::OpFlash>"/>
+  <class name="art::Wrapper<art::Assns<recob::OpFlash, sbnd::MichelTag> >" />
+  <class name="art::Wrapper<art::Assns<sbnd::MichelTag, recob::OpFlash> >" />
 </lcgdict>

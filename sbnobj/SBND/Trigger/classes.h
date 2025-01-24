@@ -2,6 +2,7 @@
 #include "canvas/Persistency/Common/Assns.h"
 #include "sbnobj/SBND/Trigger/pmtTrigger.hh"
 #include "sbnobj/SBND/Trigger/MichelTag.hh"
+#include "lardataobj/RecoBase/OpFlash.h"
 #include <vector>
 #include <map>
 #include <utility>

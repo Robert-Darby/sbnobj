@@ -4,6 +4,8 @@ cet_make_library(
     MichelTag.cc
   LIBRARIES
     cetlib_except::cetlib_except
+    lardataobj::RecoBase
+    lardataobj::AnalysisBase
   )
 
 art_dictionary(DICTIONARY_LIBRARIES sbnobj_SBND_Trigger)
